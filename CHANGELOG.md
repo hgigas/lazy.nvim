@@ -1,5 +1,12 @@
 # Changelog
 
+## [9.1.4](https://github.com/folke/lazy.nvim/compare/v9.1.3...v9.1.4) (2023-01-12)
+
+
+### Bug Fixes
+
+* **ui:** open diff and others over the ui. Don't try to be smart about it. Fixes [#361](https://github.com/folke/lazy.nvim/issues/361) ([3fbe4fe](https://github.com/folke/lazy.nvim/commit/3fbe4fe27ab6b58e5dafd45c5316ec62791907d4))
+
 ## [9.1.3](https://github.com/folke/lazy.nvim/compare/v9.1.2...v9.1.3) (2023-01-11)
 
 
